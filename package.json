@@ -1,0 +1,27 @@
+{
+  "name": "sortfunctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirillTovpinets/yandex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillTovpinets/yandex/issues"
+  },
+  "homepage": "https://github.com/KirillTovpinets/yandex#readme"
+}
